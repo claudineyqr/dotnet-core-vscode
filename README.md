@@ -26,7 +26,7 @@
 - [ASP.NET Core Snippets](https://marketplace.visualstudio.com/items?itemName=rahulsahay.Csharp-ASPNETCore)
 - [ASP.NET Core Switcher](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.asp-net-core-switcher)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments){:target="_blank"}
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
 - [C# Extensions](https://marketplace.visualstudio.com/items?itemName=kreativ-software.csharpextensions)
@@ -55,7 +55,7 @@
 
 #### Pacotes [Nuget](https://www.nuget.org/)
 
-Para o funcinamento do Scafolding e Migrations instalar os seguintes pacotes no projeto
+Para o funcionamento do Scafolding e Migrations instalar os seguintes pacotes no projeto
 
 - [Microsoft.Composition](https://www.nuget.org/packages/Microsoft.Composition/)
 - [System.Composition](https://www.nuget.org/packages/System.Composition/)

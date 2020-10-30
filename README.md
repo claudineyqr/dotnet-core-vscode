@@ -1,4 +1,4 @@
-# Configuração ambiente desenvolvimento para .NET Core com VS Code
+# Configuração ambiente desenvolvimento .NET Core com VS Code
 
 ## Instalação .NET Core
 

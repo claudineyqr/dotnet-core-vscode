@@ -6,19 +6,7 @@
     "editor.rulers": [
         150
     ],
-    "vsintellicode.modify.editor.suggestSelection": "enabled",
-    "[dart]": {
-        "editor.formatOnSave": true,
-        "editor.formatOnType": true,
-        "editor.rulers": [
-            100
-        ],
-        "editor.selectionHighlight": false,
-        "editor.suggest.snippetsPreventQuickSuggestions": false,
-        "editor.suggestSelection": "first",
-        "editor.tabCompletion": "onlySnippets",
-        "editor.wordBasedSuggestions": false
-    },   
+    "vsintellicode.modify.editor.suggestSelection": "enabled",    
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
     "gitlens.advanced.telemetry.enabled": false,
@@ -47,6 +35,5 @@
     "csharp.semanticHighlighting.enabled": true,
     "omnisharp.enableRoslynAnalyzers": true,
     "html-css-class-completion.enableEmmetSupport": true,
-    "bracket-pair-colorizer-2.colorMode": "Independent",
-    
+    "bracket-pair-colorizer-2.colorMode": "Independent"    
 }

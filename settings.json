@@ -1,33 +1,58 @@
 {
-    "workbench.colorTheme": "Dracula",
-    "workbench.iconTheme": "vscode-icons",
-    "editor.suggestSelection": "first",
-    "editor.fontSize": 16,
-    "editor.rulers": [
-        150
-    ],
-    "vsintellicode.modify.editor.suggestSelection": "enabled",    
+    "debug.openDebug": "openOnDebugBreak",
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
-    "gitlens.advanced.telemetry.enabled": false,
-    "dotnet-test-explorer.enableTelemetry": false,
-    "dotnet.enableTelemetry": false,
+    "sync.quietSync": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "csharpsortusings.sort.usings.splitGroups": false,
+    "editor.rulers": [
+        80,
+        120,
+        150
+    ],
+    "[csharp]": {
+        "editor.formatOnSave": true
+    },
+    "[css]": {
+        "editor.formatOnSave": true
+    },
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+    "[json]": {
+        "editor.formatOnSave": true
+    },
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "dart.previewFlutterUiGuides": true,
+    "omnisharp.path": "latest",
+    "git.autofetch": true,
+    "git.showPushSuccessNotification": true,
+    "git.smartCommitChanges": "all",
+    "html-css-class-completion.enableEmmetSupport": true,
+    "workbench.colorTheme": "Visual Studio 2019 Dark",
+    "workbench.iconTheme": "material-icon-theme",
+    "typescript.updateImportsOnFileMove.enabled": "always",
     "files.exclude": {
         "**/.git": true,
         "**/.svn": true,
         "**/.hg": true,
         "**/CVS": true,
         "**/.DS_Store": true,
-        "**/node_modules": true,
         "**/bin": true,
         "**/obj": true,
+        "**/node_modules": true
     },
-    "csharpsortusings.sort.usings.order": "System Microsoft",
-    "csharpsortusings.sort.usings.splitGroups": false,
-    "html-css-class-completion.includeGlobPattern": "**/*.{css,html,cshtml}",
-    "vssolution.showOutputChannel": true,
-    "vssolution.trackActiveItem": true,
-    "vssolution.solutionExplorerIcons": "current-theme",
-    "vssolution.showMode": "explorer",
-    "path-intellisense.extensionOnImport": true,
+    "editor.fontSize": 15
 }

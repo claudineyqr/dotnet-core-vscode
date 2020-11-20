@@ -10,11 +10,23 @@
 
 ### LibMan CLI
 
+[Docs](https://docs.microsoft.com/pt-br/aspnet/core/client-side/libman/libman-cli)
+
 ``dotnet tool install --global Microsoft.Web.LibraryManager.Cli``
 
 ### Entity Framework Core-CLI
 
+[Docs](https://docs.microsoft.com/pt-br/ef/core/cli/dotnet)
+
 ``dotnet tool install --global dotnet-ef``
+
+``dotnet tool update --global dotnet-ef``
+
+### WCF dotnet-svcutil tool for .NET Core
+
+[Docs](https://docs.microsoft.com/pt-br/dotnet/core/additional-tools/dotnet-svcutil-guide?tabs=dotnetsvcutil2x)
+
+``dotnet tool install --global dotnet-svcutil``
 
 ## Visual Studio Code
 
@@ -37,7 +49,6 @@
 - [C# XML Documentation Comments](https://marketplace.visualstudio.com/items?itemName=k--kato.docomment)
 - [dotnet](https://marketplace.visualstudio.com/items?itemName=leo-labs.dotnet)
 - [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
-- [dotnet](https://marketplace.visualstudio.com/items?itemName=leo-labs.dotnet)
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
@@ -45,7 +56,6 @@
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
-- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [NuGet Gallery](https://marketplace.visualstudio.com/items?itemName=patcx.vscode-nuget-gallery)
 - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)

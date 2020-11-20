@@ -28,6 +28,8 @@
 
 ``dotnet tool install --global dotnet-svcutil``
 
+``dotnet add package System.ServiceModel.Http``
+
 ## Visual Studio Code
 
 ### Download

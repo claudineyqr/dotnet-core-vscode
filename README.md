@@ -49,6 +49,7 @@
 - [C# Namespace Autocompletion](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.namespace)
 - [C# Format Usings](https://marketplace.visualstudio.com/items?itemName=gaoshan0621.csharp-format-usings)
 - [C# XML Documentation Comments](https://marketplace.visualstudio.com/items?itemName=k--kato.docomment)
+- [C# Workspace](https://marketplace.visualstudio.com/items?itemName=qp.csharp-workspace)
 - [dotnet](https://marketplace.visualstudio.com/items?itemName=leo-labs.dotnet)
 - [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)

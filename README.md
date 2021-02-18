@@ -47,7 +47,7 @@
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
 - [C# Namespace Autocompletion](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.namespace)
-- [C# Sort Usings](https://marketplace.visualstudio.com/items?itemName=jongrant.csharpsortusings)
+- [C# Format Usings](https://marketplace.visualstudio.com/items?itemName=gaoshan0621.csharp-format-usings)
 - [C# XML Documentation Comments](https://marketplace.visualstudio.com/items?itemName=k--kato.docomment)
 - [dotnet](https://marketplace.visualstudio.com/items?itemName=leo-labs.dotnet)
 - [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)

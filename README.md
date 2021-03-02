@@ -74,7 +74,7 @@
 - [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
 
-### Configurações
+### Configurações recomendadas
 
 [settings.json](settings.json)
 
